@@ -1,1 +1,8 @@
-# 8b-instract
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
